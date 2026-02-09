@@ -13,9 +13,9 @@ Son **5 scrapers especializados**, cada uno extrae información diferente del si
 | Script | Datos que extrae | Portal |
 |--------|-----------------|--------|
 | **01. Costo y Devengado** | Costo total, PIA, PIM, devengados 2026, fechas | [SSI MEF](https://ofi5.mef.gob.pe/ssi/) |
-| **02. Saldo y Programación** | Programación financiera, déficit/saldo | [Rep. Seguimiento](https://ofi5.mef.gob.pe/inviertews/) |
-| **03. Etapa** | Etapa del proyecto (ejecución, formulación, etc.) | [Ficha Ejecución](https://ofi5.mef.gob.pe/invierte/) |
-| **04. PMI y Montos Anuales** | OPMI, montos proyectados 2026-2029 | [Consulta PMI](https://ofi5.mef.gob.pe/invierte/pmi/) |
+| **02. Saldo y Programación** | Programación financiera, déficit/saldo | [Rep. Seguimiento](https://ofi5.mef.gob.pe/invierteWS/Repseguim/ResumF12B?codigo=) |
+| **03. Etapa** | Etapa del proyecto (ejecución, formulación, etc.) | [Ficha Ejecución](https://ofi5.mef.gob.pe/invierte/ejecucion/verFichaEjecucion/) |
+| **04. PMI y Montos Anuales** | OPMI, montos proyectados 2026-2029 | [Consulta PMI](https://ofi5.mef.gob.pe/invierte/pmi/consultapmi?cui=) |
 | **05. Tipo y UEI** | Tipo de inversión, unidad ejecutora | [SSI MEF](https://ofi5.mef.gob.pe/ssi/) |
 
 ---

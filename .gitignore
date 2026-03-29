@@ -1,3 +1,26 @@
+# ============================================================
+# Reglas específicas del proyecto scraper-invierte-mef
+# ============================================================
+
+# Archivos de datos — no subir al repositorio
+# (Coloca tu CUI.xlsx localmente en cada carpeta del notebook)
+**/CUI.xlsx
+**/CUI*.xlsx
+**/mef*.xlsx
+**/resultados*.xlsx
+**/SALDO*.xlsx
+**/ETAPA*.xlsx
+**/CUI_UEI*.xlsx
+**/CUI_junto*.xlsx
+
+# Carpeta de backup local
+*_BACKUP_*/
+
+# Archivos de salida Excel generados por los scrapers
+**/*_results.xlsx
+**/*_output.xlsx
+
+# ============================================================
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
